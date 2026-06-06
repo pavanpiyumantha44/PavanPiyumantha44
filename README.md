@@ -3,13 +3,13 @@
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+the+future%2C+one+commit+at+a+time...;.NET+10+%2B+React+%2B+PostgreSQL+%2B+Docker;Clean+Architecture+%7C+CQRS+%7C+MediatR+%7C+EF+Core;Always+learning.+Always+shipping." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+the+future%2C+one+commit+at+a+time...;Always+learning.+Always+shipping." />
 </h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-388bfd?style=for-the-badge&logoColor=white&labelColor=0d1b2a" />
   <img src="https://img.shields.io/badge/Location-Sri%20Lanka-1a3a5c?style=for-the-badge&logoColor=white&labelColor=0d1b2a" />
-  <img src="https://img.shields.io/badge/Stack-.NET%20%2B%20React-58a6ff?style=for-the-badge&logoColor=white&labelColor=0d1b2a" />
+  <img src="https://img.shields.io/badge/Stack-Full%20Stack-58a6ff?style=for-the-badge&logoColor=white&labelColor=0d1b2a" />
   <img src="https://komarev.com/ghpvc/?username=pavanpiyumantha44&style=for-the-badge&color=388bfd&label=PROFILE+VIEWS&labelColor=0d1b2a" />
 </div>
 
@@ -22,7 +22,7 @@
 ```txt
 ›  Building innovative and scalable software solutions
 ›  .NET , React , Python, SQL and DevOps specialist
-›  Docker, K8s & Azure cloud stack
+›  Docker, Linux & Azure cloud stack
 ›  Always learning. Always shipping.
 ```
 
@@ -66,10 +66,7 @@
 
 ### `Github stats`
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pavanpiyumantha44&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=58a6ff&icon_color=388bfd&text_color=79c0ff&bg_color=060c14" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavanpiyumantha44&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=79c0ff&bg_color=060c14" height="165"/>
-</div>
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=pavanpiyumantha44&theme=github-dark-blue&hide_border=true&ring=58a6ff&fire=388bfd&currStreakLabel=58a6ff&background=060c14&dates=79c0ff" height="165"/>
